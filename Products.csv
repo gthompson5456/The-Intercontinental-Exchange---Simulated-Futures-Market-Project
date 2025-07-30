@@ -1,0 +1,31 @@
+,Exchange,Commodity Code,Group,Name
+0,ABCD,RWO,Equity Derivatives,Equity Deivatives Product 01
+1,IJKL,AFP,Equity Derivatives,Equity Deivatives Product 02
+2,IJKL,EFW,Equity Derivatives,Equity Deivatives Product 03
+3,MNOP,WBD,Equity Derivatives,Equity Deivatives Product 04
+4,MNOP,EQI,Equity Derivatives,Equity Deivatives Product 05
+5,MNOP,YZL,Equity Derivatives,Equity Deivatives Product 06
+6,MNOP,SCU,FX,FX Product 01
+7,MNOP,ILJ,FX,FX Product 02
+8,ABCD,SHY,FX,FX Product 03
+9,ABCD,VLT,FX,FX Product 04
+10,ABCD,UFY,Oil,Oil Product 01
+11,ABCD,KQI,Oil,Oil Product 02
+12,ABCD,TDS,Oil,Oil Product 03
+13,ABCD,MYF,Oil,Oil Product 04
+14,ABCD,KMS,Oil,Oil Product 05
+15,ABCD,QEK,Oil,Oil Product 06
+16,EFGH,YXU,Oil,Oil Product 07
+17,EFGH,PYW,Oil,Oil Product 08
+18,EFGH,DCS,Oil,Oil Product 09
+19,EFGH,WXG,Oil,Oil Product 10
+20,EFGH,XSX,Oil,Oil Product 11
+21,ABCD,GRH,Oil,Oil Product 12
+22,MNOP,YWV,Softs,Softs Product 01
+23,MNOP,SQG,Softs,Softs Product 02
+24,MNOP,GQH,Softs,Softs Product 03
+25,MNOP,YJB,Softs,Softs Product 04
+26,MNOP,JHS,Softs,Softs Product 05
+27,MNOP,FLV,Softs,Softs Product 06
+28,MNOP,MOH,Softs,Softs Product 07
+29,ABCD,NCJ,Softs,Softs Product 08
